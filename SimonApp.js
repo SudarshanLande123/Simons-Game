@@ -1,5 +1,5 @@
 let gameseq = [];
-let userseq = [];
+let userseq = []; 
 let level = 0;
 let max_score = 0;
 let btns = ["red","blue","green","yellow"];
